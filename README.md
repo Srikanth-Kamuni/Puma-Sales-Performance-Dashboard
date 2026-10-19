@@ -4,7 +4,8 @@ An end-to-end sales analytics project covering data preparation, KPI calculation
 
 **Data disclosure:** Transaction records, customers, products, prices, costs, deliveries and targets are simulated for learning. They are not PUMA's internal data or a representative sample of its business. The project covers 12 selected countries, not every PUMA market. A separate file contains published historical PUMA sales figures; those figures are excluded from the transaction dashboard.
 
-![Excel dashboard preview using simulated sales data](assets/advanced_dashboard_preview.png)
+![Excel dashboard preview using simulated sales data]<img width="1445" height="1010" alt="advanced_dashboard_preview" src="https://github.com/user-attachments/assets/cbeb58c2-7e48-4003-8470-1b95b8089460" />
+
 
 ## Business problem
 
