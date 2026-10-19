@@ -51,7 +51,6 @@ Each order has two product lines, and each month has 150 orders. This controlled
 
 `sales_raw.csv` is the flattened version of the orders and order lines used in SQL. Do not append these datasets together. The dirty practice file is a separate exercise and must also stay outside the main sales population.
 
-See the [data dictionary and assumptions](guides/01_Start_here_and_data_dictionary.md) for field definitions and record-level rules.
 
 ## KPI definitions
 
@@ -93,13 +92,12 @@ The supplied world map is a **fixed coverage image**. Its colours identify the s
 
 ### Start the Excel project
 
-1. Open [PUMA_Sales_Starter.xlsx](excel/PUMA_Sales_Starter.xlsx) in desktop Excel and save a working copy.
-2. Follow the [Excel foundation guide](guides/02_Excel_step_by_step.md) to inspect the data and build the calculations.
-3. Follow the [advanced dashboard guide](guides/06_Advanced_Excel_dashboard.md) for layout, images, controls and charts.
-4. Compare your calculations and layout with [PUMA_Sales_Solution.xlsx](excel/PUMA_Sales_Solution.xlsx).
-5. Check the results against the [answer checks](guides/05_Answer_checks.md).
+1. Open [PUMA_Sales_Starter.xlsx] in desktop Excel and save a working copy.
+2. Follow the [Excel foundation guide] to inspect the data and build the calculations.
+3. Follow the [advanced dashboard guide] for layout, images, controls and charts.
+4. Compare your calculations and layout with [PUMA_Sales_Solution.xlsx].
+5. Check the results against the [answer checks].
 
-The [complete HTML handbook](PUMA_Complete_Handbook.html) combines the lessons and can be opened locally in a browser. Download the repository to use the workbook and handbook files.
 
 ## SQL analysis
 
