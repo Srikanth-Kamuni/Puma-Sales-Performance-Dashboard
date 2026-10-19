@@ -1,0 +1,901 @@
+CustomerID,CustomerSegment,SignupYear
+C0001,Club,2023
+C0002,Small retailer,2024
+C0003,Consumer,2022
+C0004,Club,2023
+C0005,Small retailer,2024
+C0006,Consumer,2022
+C0007,Club,2023
+C0008,Small retailer,2024
+C0009,Consumer,2022
+C0010,Club,2023
+C0011,Small retailer,2024
+C0012,Consumer,2022
+C0013,Club,2023
+C0014,Small retailer,2024
+C0015,Consumer,2022
+C0016,Club,2023
+C0017,Small retailer,2024
+C0018,Consumer,2022
+C0019,Club,2023
+C0020,Small retailer,2024
+C0021,Consumer,2022
+C0022,Club,2023
+C0023,Small retailer,2024
+C0024,Consumer,2022
+C0025,Club,2023
+C0026,Small retailer,2024
+C0027,Consumer,2022
+C0028,Club,2023
+C0029,Small retailer,2024
+C0030,Consumer,2022
+C0031,Club,2023
+C0032,Small retailer,2024
+C0033,Consumer,2022
+C0034,Club,2023
+C0035,Small retailer,2024
+C0036,Consumer,2022
+C0037,Club,2023
+C0038,Small retailer,2024
+C0039,Consumer,2022
+C0040,Club,2023
+C0041,Small retailer,2024
+C0042,Consumer,2022
+C0043,Club,2023
+C0044,Small retailer,2024
+C0045,Consumer,2022
+C0046,Club,2023
+C0047,Small retailer,2024
+C0048,Consumer,2022
+C0049,Club,2023
+C0050,Small retailer,2024
+C0051,Consumer,2022
+C0052,Club,2023
+C0053,Small retailer,2024
+C0054,Consumer,2022
+C0055,Club,2023
+C0056,Small retailer,2024
+C0057,Consumer,2022
+C0058,Club,2023
+C0059,Small retailer,2024
+C0060,Consumer,2022
+C0061,Club,2023
+C0062,Small retailer,2024
+C0063,Consumer,2022
+C0064,Club,2023
+C0065,Small retailer,2024
+C0066,Consumer,2022
+C0067,Club,2023
+C0068,Small retailer,2024
+C0069,Consumer,2022
+C0070,Club,2023
+C0071,Small retailer,2024
+C0072,Consumer,2022
+C0073,Club,2023
+C0074,Small retailer,2024
+C0075,Consumer,2022
+C0076,Club,2023
+C0077,Small retailer,2024
+C0078,Consumer,2022
+C0079,Club,2023
+C0080,Small retailer,2024
+C0081,Consumer,2022
+C0082,Club,2023
+C0083,Small retailer,2024
+C0084,Consumer,2022
+C0085,Club,2023
+C0086,Small retailer,2024
+C0087,Consumer,2022
+C0088,Club,2023
+C0089,Small retailer,2024
+C0090,Consumer,2022
+C0091,Club,2023
+C0092,Small retailer,2024
+C0093,Consumer,2022
+C0094,Club,2023
+C0095,Small retailer,2024
+C0096,Consumer,2022
+C0097,Club,2023
+C0098,Small retailer,2024
+C0099,Consumer,2022
+C0100,Club,2023
+C0101,Small retailer,2024
+C0102,Consumer,2022
+C0103,Club,2023
+C0104,Small retailer,2024
+C0105,Consumer,2022
+C0106,Club,2023
+C0107,Small retailer,2024
+C0108,Consumer,2022
+C0109,Club,2023
+C0110,Small retailer,2024
+C0111,Consumer,2022
+C0112,Club,2023
+C0113,Small retailer,2024
+C0114,Consumer,2022
+C0115,Club,2023
+C0116,Small retailer,2024
+C0117,Consumer,2022
+C0118,Club,2023
+C0119,Small retailer,2024
+C0120,Consumer,2022
+C0121,Club,2023
+C0122,Small retailer,2024
+C0123,Consumer,2022
+C0124,Club,2023
+C0125,Small retailer,2024
+C0126,Consumer,2022
+C0127,Club,2023
+C0128,Small retailer,2024
+C0129,Consumer,2022
+C0130,Club,2023
+C0131,Small retailer,2024
+C0132,Consumer,2022
+C0133,Club,2023
+C0134,Small retailer,2024
+C0135,Consumer,2022
+C0136,Club,2023
+C0137,Small retailer,2024
+C0138,Consumer,2022
+C0139,Club,2023
+C0140,Small retailer,2024
+C0141,Consumer,2022
+C0142,Club,2023
+C0143,Small retailer,2024
+C0144,Consumer,2022
+C0145,Club,2023
+C0146,Small retailer,2024
+C0147,Consumer,2022
+C0148,Club,2023
+C0149,Small retailer,2024
+C0150,Consumer,2022
+C0151,Club,2023
+C0152,Small retailer,2024
+C0153,Consumer,2022
+C0154,Club,2023
+C0155,Small retailer,2024
+C0156,Consumer,2022
+C0157,Club,2023
+C0158,Small retailer,2024
+C0159,Consumer,2022
+C0160,Club,2023
+C0161,Small retailer,2024
+C0162,Consumer,2022
+C0163,Club,2023
+C0164,Small retailer,2024
+C0165,Consumer,2022
+C0166,Club,2023
+C0167,Small retailer,2024
+C0168,Consumer,2022
+C0169,Club,2023
+C0170,Small retailer,2024
+C0171,Consumer,2022
+C0172,Club,2023
+C0173,Small retailer,2024
+C0174,Consumer,2022
+C0175,Club,2023
+C0176,Small retailer,2024
+C0177,Consumer,2022
+C0178,Club,2023
+C0179,Small retailer,2024
+C0180,Consumer,2022
+C0181,Club,2023
+C0182,Small retailer,2024
+C0183,Consumer,2022
+C0184,Club,2023
+C0185,Small retailer,2024
+C0186,Consumer,2022
+C0187,Club,2023
+C0188,Small retailer,2024
+C0189,Consumer,2022
+C0190,Club,2023
+C0191,Small retailer,2024
+C0192,Consumer,2022
+C0193,Club,2023
+C0194,Small retailer,2024
+C0195,Consumer,2022
+C0196,Club,2023
+C0197,Small retailer,2024
+C0198,Consumer,2022
+C0199,Club,2023
+C0200,Small retailer,2024
+C0201,Consumer,2022
+C0202,Club,2023
+C0203,Small retailer,2024
+C0204,Consumer,2022
+C0205,Club,2023
+C0206,Small retailer,2024
+C0207,Consumer,2022
+C0208,Club,2023
+C0209,Small retailer,2024
+C0210,Consumer,2022
+C0211,Club,2023
+C0212,Small retailer,2024
+C0213,Consumer,2022
+C0214,Club,2023
+C0215,Small retailer,2024
+C0216,Consumer,2022
+C0217,Club,2023
+C0218,Small retailer,2024
+C0219,Consumer,2022
+C0220,Club,2023
+C0221,Small retailer,2024
+C0222,Consumer,2022
+C0223,Club,2023
+C0224,Small retailer,2024
+C0225,Consumer,2022
+C0226,Club,2023
+C0227,Small retailer,2024
+C0228,Consumer,2022
+C0229,Club,2023
+C0230,Small retailer,2024
+C0231,Consumer,2022
+C0232,Club,2023
+C0233,Small retailer,2024
+C0234,Consumer,2022
+C0235,Club,2023
+C0236,Small retailer,2024
+C0237,Consumer,2022
+C0238,Club,2023
+C0239,Small retailer,2024
+C0240,Consumer,2022
+C0241,Club,2023
+C0242,Small retailer,2024
+C0243,Consumer,2022
+C0244,Club,2023
+C0245,Small retailer,2024
+C0246,Consumer,2022
+C0247,Club,2023
+C0248,Small retailer,2024
+C0249,Consumer,2022
+C0250,Club,2023
+C0251,Small retailer,2024
+C0252,Consumer,2022
+C0253,Club,2023
+C0254,Small retailer,2024
+C0255,Consumer,2022
+C0256,Club,2023
+C0257,Small retailer,2024
+C0258,Consumer,2022
+C0259,Club,2023
+C0260,Small retailer,2024
+C0261,Consumer,2022
+C0262,Club,2023
+C0263,Small retailer,2024
+C0264,Consumer,2022
+C0265,Club,2023
+C0266,Small retailer,2024
+C0267,Consumer,2022
+C0268,Club,2023
+C0269,Small retailer,2024
+C0270,Consumer,2022
+C0271,Club,2023
+C0272,Small retailer,2024
+C0273,Consumer,2022
+C0274,Club,2023
+C0275,Small retailer,2024
+C0276,Consumer,2022
+C0277,Club,2023
+C0278,Small retailer,2024
+C0279,Consumer,2022
+C0280,Club,2023
+C0281,Small retailer,2024
+C0282,Consumer,2022
+C0283,Club,2023
+C0284,Small retailer,2024
+C0285,Consumer,2022
+C0286,Club,2023
+C0287,Small retailer,2024
+C0288,Consumer,2022
+C0289,Club,2023
+C0290,Small retailer,2024
+C0291,Consumer,2022
+C0292,Club,2023
+C0293,Small retailer,2024
+C0294,Consumer,2022
+C0295,Club,2023
+C0296,Small retailer,2024
+C0297,Consumer,2022
+C0298,Club,2023
+C0299,Small retailer,2024
+C0300,Consumer,2022
+C0301,Club,2023
+C0302,Small retailer,2024
+C0303,Consumer,2022
+C0304,Club,2023
+C0305,Small retailer,2024
+C0306,Consumer,2022
+C0307,Club,2023
+C0308,Small retailer,2024
+C0309,Consumer,2022
+C0310,Club,2023
+C0311,Small retailer,2024
+C0312,Consumer,2022
+C0313,Club,2023
+C0314,Small retailer,2024
+C0315,Consumer,2022
+C0316,Club,2023
+C0317,Small retailer,2024
+C0318,Consumer,2022
+C0319,Club,2023
+C0320,Small retailer,2024
+C0321,Consumer,2022
+C0322,Club,2023
+C0323,Small retailer,2024
+C0324,Consumer,2022
+C0325,Club,2023
+C0326,Small retailer,2024
+C0327,Consumer,2022
+C0328,Club,2023
+C0329,Small retailer,2024
+C0330,Consumer,2022
+C0331,Club,2023
+C0332,Small retailer,2024
+C0333,Consumer,2022
+C0334,Club,2023
+C0335,Small retailer,2024
+C0336,Consumer,2022
+C0337,Club,2023
+C0338,Small retailer,2024
+C0339,Consumer,2022
+C0340,Club,2023
+C0341,Small retailer,2024
+C0342,Consumer,2022
+C0343,Club,2023
+C0344,Small retailer,2024
+C0345,Consumer,2022
+C0346,Club,2023
+C0347,Small retailer,2024
+C0348,Consumer,2022
+C0349,Club,2023
+C0350,Small retailer,2024
+C0351,Consumer,2022
+C0352,Club,2023
+C0353,Small retailer,2024
+C0354,Consumer,2022
+C0355,Club,2023
+C0356,Small retailer,2024
+C0357,Consumer,2022
+C0358,Club,2023
+C0359,Small retailer,2024
+C0360,Consumer,2022
+C0361,Club,2023
+C0362,Small retailer,2024
+C0363,Consumer,2022
+C0364,Club,2023
+C0365,Small retailer,2024
+C0366,Consumer,2022
+C0367,Club,2023
+C0368,Small retailer,2024
+C0369,Consumer,2022
+C0370,Club,2023
+C0371,Small retailer,2024
+C0372,Consumer,2022
+C0373,Club,2023
+C0374,Small retailer,2024
+C0375,Consumer,2022
+C0376,Club,2023
+C0377,Small retailer,2024
+C0378,Consumer,2022
+C0379,Club,2023
+C0380,Small retailer,2024
+C0381,Consumer,2022
+C0382,Club,2023
+C0383,Small retailer,2024
+C0384,Consumer,2022
+C0385,Club,2023
+C0386,Small retailer,2024
+C0387,Consumer,2022
+C0388,Club,2023
+C0389,Small retailer,2024
+C0390,Consumer,2022
+C0391,Club,2023
+C0392,Small retailer,2024
+C0393,Consumer,2022
+C0394,Club,2023
+C0395,Small retailer,2024
+C0396,Consumer,2022
+C0397,Club,2023
+C0398,Small retailer,2024
+C0399,Consumer,2022
+C0400,Club,2023
+C0401,Small retailer,2024
+C0402,Consumer,2022
+C0403,Club,2023
+C0404,Small retailer,2024
+C0405,Consumer,2022
+C0406,Club,2023
+C0407,Small retailer,2024
+C0408,Consumer,2022
+C0409,Club,2023
+C0410,Small retailer,2024
+C0411,Consumer,2022
+C0412,Club,2023
+C0413,Small retailer,2024
+C0414,Consumer,2022
+C0415,Club,2023
+C0416,Small retailer,2024
+C0417,Consumer,2022
+C0418,Club,2023
+C0419,Small retailer,2024
+C0420,Consumer,2022
+C0421,Club,2023
+C0422,Small retailer,2024
+C0423,Consumer,2022
+C0424,Club,2023
+C0425,Small retailer,2024
+C0426,Consumer,2022
+C0427,Club,2023
+C0428,Small retailer,2024
+C0429,Consumer,2022
+C0430,Club,2023
+C0431,Small retailer,2024
+C0432,Consumer,2022
+C0433,Club,2023
+C0434,Small retailer,2024
+C0435,Consumer,2022
+C0436,Club,2023
+C0437,Small retailer,2024
+C0438,Consumer,2022
+C0439,Club,2023
+C0440,Small retailer,2024
+C0441,Consumer,2022
+C0442,Club,2023
+C0443,Small retailer,2024
+C0444,Consumer,2022
+C0445,Club,2023
+C0446,Small retailer,2024
+C0447,Consumer,2022
+C0448,Club,2023
+C0449,Small retailer,2024
+C0450,Consumer,2022
+C0451,Club,2023
+C0452,Small retailer,2024
+C0453,Consumer,2022
+C0454,Club,2023
+C0455,Small retailer,2024
+C0456,Consumer,2022
+C0457,Club,2023
+C0458,Small retailer,2024
+C0459,Consumer,2022
+C0460,Club,2023
+C0461,Small retailer,2024
+C0462,Consumer,2022
+C0463,Club,2023
+C0464,Small retailer,2024
+C0465,Consumer,2022
+C0466,Club,2023
+C0467,Small retailer,2024
+C0468,Consumer,2022
+C0469,Club,2023
+C0470,Small retailer,2024
+C0471,Consumer,2022
+C0472,Club,2023
+C0473,Small retailer,2024
+C0474,Consumer,2022
+C0475,Club,2023
+C0476,Small retailer,2024
+C0477,Consumer,2022
+C0478,Club,2023
+C0479,Small retailer,2024
+C0480,Consumer,2022
+C0481,Club,2023
+C0482,Small retailer,2024
+C0483,Consumer,2022
+C0484,Club,2023
+C0485,Small retailer,2024
+C0486,Consumer,2022
+C0487,Club,2023
+C0488,Small retailer,2024
+C0489,Consumer,2022
+C0490,Club,2023
+C0491,Small retailer,2024
+C0492,Consumer,2022
+C0493,Club,2023
+C0494,Small retailer,2024
+C0495,Consumer,2022
+C0496,Club,2023
+C0497,Small retailer,2024
+C0498,Consumer,2022
+C0499,Club,2023
+C0500,Small retailer,2024
+C0501,Consumer,2022
+C0502,Club,2023
+C0503,Small retailer,2024
+C0504,Consumer,2022
+C0505,Club,2023
+C0506,Small retailer,2024
+C0507,Consumer,2022
+C0508,Club,2023
+C0509,Small retailer,2024
+C0510,Consumer,2022
+C0511,Club,2023
+C0512,Small retailer,2024
+C0513,Consumer,2022
+C0514,Club,2023
+C0515,Small retailer,2024
+C0516,Consumer,2022
+C0517,Club,2023
+C0518,Small retailer,2024
+C0519,Consumer,2022
+C0520,Club,2023
+C0521,Small retailer,2024
+C0522,Consumer,2022
+C0523,Club,2023
+C0524,Small retailer,2024
+C0525,Consumer,2022
+C0526,Club,2023
+C0527,Small retailer,2024
+C0528,Consumer,2022
+C0529,Club,2023
+C0530,Small retailer,2024
+C0531,Consumer,2022
+C0532,Club,2023
+C0533,Small retailer,2024
+C0534,Consumer,2022
+C0535,Club,2023
+C0536,Small retailer,2024
+C0537,Consumer,2022
+C0538,Club,2023
+C0539,Small retailer,2024
+C0540,Consumer,2022
+C0541,Club,2023
+C0542,Small retailer,2024
+C0543,Consumer,2022
+C0544,Club,2023
+C0545,Small retailer,2024
+C0546,Consumer,2022
+C0547,Club,2023
+C0548,Small retailer,2024
+C0549,Consumer,2022
+C0550,Club,2023
+C0551,Small retailer,2024
+C0552,Consumer,2022
+C0553,Club,2023
+C0554,Small retailer,2024
+C0555,Consumer,2022
+C0556,Club,2023
+C0557,Small retailer,2024
+C0558,Consumer,2022
+C0559,Club,2023
+C0560,Small retailer,2024
+C0561,Consumer,2022
+C0562,Club,2023
+C0563,Small retailer,2024
+C0564,Consumer,2022
+C0565,Club,2023
+C0566,Small retailer,2024
+C0567,Consumer,2022
+C0568,Club,2023
+C0569,Small retailer,2024
+C0570,Consumer,2022
+C0571,Club,2023
+C0572,Small retailer,2024
+C0573,Consumer,2022
+C0574,Club,2023
+C0575,Small retailer,2024
+C0576,Consumer,2022
+C0577,Club,2023
+C0578,Small retailer,2024
+C0579,Consumer,2022
+C0580,Club,2023
+C0581,Small retailer,2024
+C0582,Consumer,2022
+C0583,Club,2023
+C0584,Small retailer,2024
+C0585,Consumer,2022
+C0586,Club,2023
+C0587,Small retailer,2024
+C0588,Consumer,2022
+C0589,Club,2023
+C0590,Small retailer,2024
+C0591,Consumer,2022
+C0592,Club,2023
+C0593,Small retailer,2024
+C0594,Consumer,2022
+C0595,Club,2023
+C0596,Small retailer,2024
+C0597,Consumer,2022
+C0598,Club,2023
+C0599,Small retailer,2024
+C0600,Consumer,2022
+C0601,Club,2023
+C0602,Small retailer,2024
+C0603,Consumer,2022
+C0604,Club,2023
+C0605,Small retailer,2024
+C0606,Consumer,2022
+C0607,Club,2023
+C0608,Small retailer,2024
+C0609,Consumer,2022
+C0610,Club,2023
+C0611,Small retailer,2024
+C0612,Consumer,2022
+C0613,Club,2023
+C0614,Small retailer,2024
+C0615,Consumer,2022
+C0616,Club,2023
+C0617,Small retailer,2024
+C0618,Consumer,2022
+C0619,Club,2023
+C0620,Small retailer,2024
+C0621,Consumer,2022
+C0622,Club,2023
+C0623,Small retailer,2024
+C0624,Consumer,2022
+C0625,Club,2023
+C0626,Small retailer,2024
+C0627,Consumer,2022
+C0628,Club,2023
+C0629,Small retailer,2024
+C0630,Consumer,2022
+C0631,Club,2023
+C0632,Small retailer,2024
+C0633,Consumer,2022
+C0634,Club,2023
+C0635,Small retailer,2024
+C0636,Consumer,2022
+C0637,Club,2023
+C0638,Small retailer,2024
+C0639,Consumer,2022
+C0640,Club,2023
+C0641,Small retailer,2024
+C0642,Consumer,2022
+C0643,Club,2023
+C0644,Small retailer,2024
+C0645,Consumer,2022
+C0646,Club,2023
+C0647,Small retailer,2024
+C0648,Consumer,2022
+C0649,Club,2023
+C0650,Small retailer,2024
+C0651,Consumer,2022
+C0652,Club,2023
+C0653,Small retailer,2024
+C0654,Consumer,2022
+C0655,Club,2023
+C0656,Small retailer,2024
+C0657,Consumer,2022
+C0658,Club,2023
+C0659,Small retailer,2024
+C0660,Consumer,2022
+C0661,Club,2023
+C0662,Small retailer,2024
+C0663,Consumer,2022
+C0664,Club,2023
+C0665,Small retailer,2024
+C0666,Consumer,2022
+C0667,Club,2023
+C0668,Small retailer,2024
+C0669,Consumer,2022
+C0670,Club,2023
+C0671,Small retailer,2024
+C0672,Consumer,2022
+C0673,Club,2023
+C0674,Small retailer,2024
+C0675,Consumer,2022
+C0676,Club,2023
+C0677,Small retailer,2024
+C0678,Consumer,2022
+C0679,Club,2023
+C0680,Small retailer,2024
+C0681,Consumer,2022
+C0682,Club,2023
+C0683,Small retailer,2024
+C0684,Consumer,2022
+C0685,Club,2023
+C0686,Small retailer,2024
+C0687,Consumer,2022
+C0688,Club,2023
+C0689,Small retailer,2024
+C0690,Consumer,2022
+C0691,Club,2023
+C0692,Small retailer,2024
+C0693,Consumer,2022
+C0694,Club,2023
+C0695,Small retailer,2024
+C0696,Consumer,2022
+C0697,Club,2023
+C0698,Small retailer,2024
+C0699,Consumer,2022
+C0700,Club,2023
+C0701,Small retailer,2024
+C0702,Consumer,2022
+C0703,Club,2023
+C0704,Small retailer,2024
+C0705,Consumer,2022
+C0706,Club,2023
+C0707,Small retailer,2024
+C0708,Consumer,2022
+C0709,Club,2023
+C0710,Small retailer,2024
+C0711,Consumer,2022
+C0712,Club,2023
+C0713,Small retailer,2024
+C0714,Consumer,2022
+C0715,Club,2023
+C0716,Small retailer,2024
+C0717,Consumer,2022
+C0718,Club,2023
+C0719,Small retailer,2024
+C0720,Consumer,2022
+C0721,Club,2023
+C0722,Small retailer,2024
+C0723,Consumer,2022
+C0724,Club,2023
+C0725,Small retailer,2024
+C0726,Consumer,2022
+C0727,Club,2023
+C0728,Small retailer,2024
+C0729,Consumer,2022
+C0730,Club,2023
+C0731,Small retailer,2024
+C0732,Consumer,2022
+C0733,Club,2023
+C0734,Small retailer,2024
+C0735,Consumer,2022
+C0736,Club,2023
+C0737,Small retailer,2024
+C0738,Consumer,2022
+C0739,Club,2023
+C0740,Small retailer,2024
+C0741,Consumer,2022
+C0742,Club,2023
+C0743,Small retailer,2024
+C0744,Consumer,2022
+C0745,Club,2023
+C0746,Small retailer,2024
+C0747,Consumer,2022
+C0748,Club,2023
+C0749,Small retailer,2024
+C0750,Consumer,2022
+C0751,Club,2023
+C0752,Small retailer,2024
+C0753,Consumer,2022
+C0754,Club,2023
+C0755,Small retailer,2024
+C0756,Consumer,2022
+C0757,Club,2023
+C0758,Small retailer,2024
+C0759,Consumer,2022
+C0760,Club,2023
+C0761,Small retailer,2024
+C0762,Consumer,2022
+C0763,Club,2023
+C0764,Small retailer,2024
+C0765,Consumer,2022
+C0766,Club,2023
+C0767,Small retailer,2024
+C0768,Consumer,2022
+C0769,Club,2023
+C0770,Small retailer,2024
+C0771,Consumer,2022
+C0772,Club,2023
+C0773,Small retailer,2024
+C0774,Consumer,2022
+C0775,Club,2023
+C0776,Small retailer,2024
+C0777,Consumer,2022
+C0778,Club,2023
+C0779,Small retailer,2024
+C0780,Consumer,2022
+C0781,Club,2023
+C0782,Small retailer,2024
+C0783,Consumer,2022
+C0784,Club,2023
+C0785,Small retailer,2024
+C0786,Consumer,2022
+C0787,Club,2023
+C0788,Small retailer,2024
+C0789,Consumer,2022
+C0790,Club,2023
+C0791,Small retailer,2024
+C0792,Consumer,2022
+C0793,Club,2023
+C0794,Small retailer,2024
+C0795,Consumer,2022
+C0796,Club,2023
+C0797,Small retailer,2024
+C0798,Consumer,2022
+C0799,Club,2023
+C0800,Small retailer,2024
+C0801,Consumer,2022
+C0802,Club,2023
+C0803,Small retailer,2024
+C0804,Consumer,2022
+C0805,Club,2023
+C0806,Small retailer,2024
+C0807,Consumer,2022
+C0808,Club,2023
+C0809,Small retailer,2024
+C0810,Consumer,2022
+C0811,Club,2023
+C0812,Small retailer,2024
+C0813,Consumer,2022
+C0814,Club,2023
+C0815,Small retailer,2024
+C0816,Consumer,2022
+C0817,Club,2023
+C0818,Small retailer,2024
+C0819,Consumer,2022
+C0820,Club,2023
+C0821,Small retailer,2024
+C0822,Consumer,2022
+C0823,Club,2023
+C0824,Small retailer,2024
+C0825,Consumer,2022
+C0826,Club,2023
+C0827,Small retailer,2024
+C0828,Consumer,2022
+C0829,Club,2023
+C0830,Small retailer,2024
+C0831,Consumer,2022
+C0832,Club,2023
+C0833,Small retailer,2024
+C0834,Consumer,2022
+C0835,Club,2023
+C0836,Small retailer,2024
+C0837,Consumer,2022
+C0838,Club,2023
+C0839,Small retailer,2024
+C0840,Consumer,2022
+C0841,Club,2023
+C0842,Small retailer,2024
+C0843,Consumer,2022
+C0844,Club,2023
+C0845,Small retailer,2024
+C0846,Consumer,2022
+C0847,Club,2023
+C0848,Small retailer,2024
+C0849,Consumer,2022
+C0850,Club,2023
+C0851,Small retailer,2024
+C0852,Consumer,2022
+C0853,Club,2023
+C0854,Small retailer,2024
+C0855,Consumer,2022
+C0856,Club,2023
+C0857,Small retailer,2024
+C0858,Consumer,2022
+C0859,Club,2023
+C0860,Small retailer,2024
+C0861,Consumer,2022
+C0862,Club,2023
+C0863,Small retailer,2024
+C0864,Consumer,2022
+C0865,Club,2023
+C0866,Small retailer,2024
+C0867,Consumer,2022
+C0868,Club,2023
+C0869,Small retailer,2024
+C0870,Consumer,2022
+C0871,Club,2023
+C0872,Small retailer,2024
+C0873,Consumer,2022
+C0874,Club,2023
+C0875,Small retailer,2024
+C0876,Consumer,2022
+C0877,Club,2023
+C0878,Small retailer,2024
+C0879,Consumer,2022
+C0880,Club,2023
+C0881,Small retailer,2024
+C0882,Consumer,2022
+C0883,Club,2023
+C0884,Small retailer,2024
+C0885,Consumer,2022
+C0886,Club,2023
+C0887,Small retailer,2024
+C0888,Consumer,2022
+C0889,Club,2023
+C0890,Small retailer,2024
+C0891,Consumer,2022
+C0892,Club,2023
+C0893,Small retailer,2024
+C0894,Consumer,2022
+C0895,Club,2023
+C0896,Small retailer,2024
+C0897,Consumer,2022
+C0898,Club,2023
+C0899,Small retailer,2024
+C0900,Consumer,2022

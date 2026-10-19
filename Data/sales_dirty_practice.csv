@@ -1,0 +1,122 @@
+LineID,OrderID,OrderDate,CustomerID,Country,Region,Channel,ProductID,ProductName,Category,Quantity,UnitPriceEUR,DiscountRate,ReturnedQty,UnitCostEUR,ShippingCostEUR,DeliveryDays,PaymentMethod,FirstOrderFlag
+L000001,O000001,2023-01-22,C0821,  Germany  ,EMEA,Wholesale,P024,Practice Accessories 08,Accessories,14,55,0.1,0,23.1,3.5,5,Card,1
+L000002,O000001,2023-01-22,C0821,Germany,EMEA, e-commerce ,P021,Practice Accessories 05,Accessories,11,40,0.05,0,17.6,4.5,1,Card,0
+L000003,O000002,2023-01-17,C0302,Poland,EMEA,E-commerce,P015,Practice Apparel 07,Apparel,5,70,,0,33.6,4.0,5,Bank transfer,1
+L000004,O000002,2023-01-17,C0302,Poland,EMEA,E-commerce,P004,Practice Footwear 04,Footwear,-2,95,0.25,1,39.9,4.5,7,Bank transfer,0
+L000005,O000003,2023-01-02,C0466,United Kingdom,EMEA,Wholesale,P005,Practice Footwear 05,Footwear,18,100,0.2,99,44.0,1.0,9,Bank transfer,1
+L000006,O000003,not-a-date,C0466,United Kingdom,EMEA,Wholesale,P014,Practice Apparel 06,Apparel,11,65,0.2,0,29.9,1.5,9,Bank transfer,0
+L000007,O000004,2023-01-29,C0313,South Africa,EMEA,Wholesale,P019,Practice Accessories 03,Accessories,19,,0.2,0,14.4,5.0,7,Digital wallet,1
+L000008,O000004,2023-01-29,C0313,South Africa,EMEA,Wholesale,P999,Practice Apparel 06,Apparel,9,65,0.1,2,29.9,5.0,12,Digital wallet,0
+L000009,O000005,2023-01-06,C0028,United States,Americas,E-commerce,P024,Practice Accessories 08,Accessories,5,55,0,0,23.1,6.0,7,Digital wallet,1
+L000010,O000005,2023-01-06,C0028,United States,Americas,E-commerce,P024,Practice Accessories 08,Accessories,4,55,0.2,0,23.1,3.5,10,Digital wallet,0
+L000011,O000006,2023-01-21,C0307,Canada,Americas,Wholesale,P008,Practice Footwear 08,Footwear,8,115,0.1,0,48.3,3.0,1,Bank transfer,1
+L000012,O000006,2023-01-21,C0307,Canada,Americas,Wholesale,P001,Practice Footwear 01,Footwear,22,80,0.25,0,35.2,3.0,11,Bank transfer,0
+L000013,O000007,2023-01-07,C0149,Brazil,Americas,Wholesale,P019,Practice Accessories 03,Accessories,22,30,0.25,0,14.4,5.0,1,Digital wallet,1
+L000014,O000007,2023-01-07,C0149,Brazil,Americas,Wholesale,P017,Practice Accessories 01,Accessories,11,20,0.05,0,8.8,2.0,9,Digital wallet,0
+L000015,O000008,2023-01-19,C0577,Mexico,Americas,Retail,P001,Practice Footwear 01,Footwear,1,80,0,0,35.2,6.0,7,Card,1
+L000016,O000008,2023-01-19,C0577,Mexico,Americas,Retail,P017,Practice Accessories 01,Accessories,1,20,0,0,8.8,3.0,6,Card,0
+L000017,O000009,2023-01-25,C0585,China,Asia/Pacific,Wholesale,P023,Practice Accessories 07,Accessories,19,50,0.2,3,24.0,4.5,10,Digital wallet,1
+L000018,O000009,2023-01-25,C0585,China,Asia/Pacific,Wholesale,P008,Practice Footwear 08,Footwear,20,115,0.15,0,48.3,3.5,2,Digital wallet,0
+L000019,O000010,2023-01-05,C0530,India,Asia/Pacific,E-commerce,P007,Practice Footwear 07,Footwear,4,110,0.25,0,52.8,5.0,12,Digital wallet,1
+L000020,O000010,2023-01-05,C0530,India,Asia/Pacific,E-commerce,P007,Practice Footwear 07,Footwear,5,110,0,0,52.8,4.5,7,Digital wallet,0
+L000021,O000011,2023-01-04,C0779,Japan,Asia/Pacific,E-commerce,P024,Practice Accessories 08,Accessories,2,55,0.15,0,23.1,6.0,9,Card,1
+L000022,O000011,2023-01-04,C0779,Japan,Asia/Pacific,E-commerce,P011,Practice Apparel 03,Apparel,4,50,0.1,0,24.0,3.0,8,Card,0
+L000023,O000012,2023-01-23,C0245,Australia,Asia/Pacific,Wholesale,P022,Practice Accessories 06,Accessories,20,45,0.25,0,20.7,1.0,2,Digital wallet,1
+L000024,O000012,2023-01-23,C0245,Australia,Asia/Pacific,Wholesale,P008,Practice Footwear 08,Footwear,16,115,0.2,0,48.3,2.5,6,Digital wallet,0
+L000025,O000013,2023-01-30,C0485,Germany,EMEA,Wholesale,P002,Practice Footwear 02,Footwear,17,85,0.05,0,39.1,1.5,7,Digital wallet,1
+L000026,O000013,2023-01-30,C0485,Germany,EMEA,Wholesale,P001,Practice Footwear 01,Footwear,22,80,0.1,0,35.2,3.0,10,Digital wallet,0
+L000027,O000014,2023-01-15,C0028,Poland,EMEA,Wholesale,P007,Practice Footwear 07,Footwear,19,110,0,0,52.8,4.0,9,Card,1
+L000028,O000014,2023-01-15,C0028,Poland,EMEA,Wholesale,P021,Practice Accessories 05,Accessories,8,40,0.25,0,17.6,4.5,12,Card,0
+L000029,O000015,2023-01-31,C0041,United Kingdom,EMEA,Wholesale,P003,Practice Footwear 03,Footwear,7,90,0.2,0,43.2,1.0,10,Digital wallet,1
+L000030,O000015,2023-01-31,C0041,United Kingdom,EMEA,Wholesale,P016,Practice Apparel 08,Apparel,18,75,0.25,0,31.5,3.5,7,Digital wallet,0
+L000031,O000016,2023-01-27,C0452,South Africa,EMEA,Wholesale,P005,Practice Footwear 05,Footwear,20,100,0.1,0,44.0,2.0,4,Card,1
+L000032,O000016,2023-01-27,C0452,South Africa,EMEA,Wholesale,P003,Practice Footwear 03,Footwear,24,90,0,0,43.2,5.0,11,Card,0
+L000033,O000017,2023-01-30,C0241,United States,Americas,Wholesale,P017,Practice Accessories 01,Accessories,13,20,0.25,0,8.8,5.0,4,Card,1
+L000034,O000017,2023-01-30,C0241,United States,Americas,Wholesale,P006,Practice Footwear 06,Footwear,21,105,0.15,0,48.3,2.5,2,Card,0
+L000035,O000018,2023-01-09,C0340,Canada,Americas,Retail,P008,Practice Footwear 08,Footwear,3,115,0.2,0,48.3,3.5,6,Card,1
+L000036,O000018,2023-01-09,C0340,Canada,Americas,Retail,P024,Practice Accessories 08,Accessories,1,55,0.2,0,23.1,6.0,10,Card,0
+L000037,O000019,2023-01-26,C0513,Brazil,Americas,E-commerce,P007,Practice Footwear 07,Footwear,5,110,0.1,0,52.8,2.0,4,Digital wallet,1
+L000038,O000019,2023-01-26,C0513,Brazil,Americas,E-commerce,P006,Practice Footwear 06,Footwear,4,105,0.05,0,48.3,4.0,3,Digital wallet,0
+L000039,O000020,2023-01-15,C0189,Mexico,Americas,E-commerce,P013,Practice Apparel 05,Apparel,4,60,0.2,0,26.4,5.0,8,Card,1
+L000040,O000020,2023-01-15,C0189,Mexico,Americas,E-commerce,P017,Practice Accessories 01,Accessories,1,20,0.05,0,8.8,5.5,4,Card,0
+L000041,O000021,2023-01-23,C0644,China,Asia/Pacific,E-commerce,P022,Practice Accessories 06,Accessories,3,45,0.05,0,20.7,4.0,12,Card,1
+L000042,O000021,2023-01-23,C0644,China,Asia/Pacific,E-commerce,P024,Practice Accessories 08,Accessories,1,55,0.2,0,23.1,3.0,4,Card,0
+L000043,O000022,2023-01-26,C0480,India,Asia/Pacific,Wholesale,P010,Practice Apparel 02,Apparel,22,45,0.15,0,20.7,2.5,5,Digital wallet,1
+L000044,O000022,2023-01-26,C0480,India,Asia/Pacific,Wholesale,P001,Practice Footwear 01,Footwear,16,80,0.15,0,35.2,1.0,7,Digital wallet,0
+L000045,O000023,2023-01-02,C0172,Japan,Asia/Pacific,E-commerce,P016,Practice Apparel 08,Apparel,1,75,0.25,0,31.5,4.5,1,Bank transfer,1
+L000046,O000023,2023-01-02,C0172,Japan,Asia/Pacific,E-commerce,P019,Practice Accessories 03,Accessories,5,30,0.05,0,14.4,3.0,8,Bank transfer,0
+L000047,O000024,2023-01-14,C0576,Australia,Asia/Pacific,E-commerce,P016,Practice Apparel 08,Apparel,4,75,0.15,0,31.5,6.0,3,Digital wallet,1
+L000048,O000024,2023-01-14,C0576,Australia,Asia/Pacific,E-commerce,P008,Practice Footwear 08,Footwear,1,115,0.05,1,48.3,3.5,7,Digital wallet,0
+L000049,O000025,2023-01-18,C0298,Germany,EMEA,Retail,P004,Practice Footwear 04,Footwear,4,95,0.05,0,39.9,2.5,9,Card,1
+L000050,O000025,2023-01-18,C0298,Germany,EMEA,Retail,P012,Practice Apparel 04,Apparel,3,55,0,0,23.1,2.5,1,Card,0
+L000051,O000026,2023-01-19,C0453,Poland,EMEA,Wholesale,P001,Practice Footwear 01,Footwear,18,80,0.25,0,35.2,4.5,2,Bank transfer,1
+L000052,O000026,2023-01-19,C0453,Poland,EMEA,Wholesale,P015,Practice Apparel 07,Apparel,17,70,0.15,0,33.6,2.0,3,Bank transfer,0
+L000053,O000027,2023-01-16,C0350,United Kingdom,EMEA,Retail,P007,Practice Footwear 07,Footwear,5,110,0.05,0,52.8,2.0,3,Bank transfer,1
+L000054,O000027,2023-01-16,C0350,United Kingdom,EMEA,Retail,P008,Practice Footwear 08,Footwear,1,115,0,0,48.3,4.5,10,Bank transfer,0
+L000055,O000028,2023-01-31,C0788,South Africa,EMEA,Wholesale,P017,Practice Accessories 01,Accessories,6,20,0.2,0,8.8,3.0,6,Card,1
+L000056,O000028,2023-01-31,C0788,South Africa,EMEA,Wholesale,P019,Practice Accessories 03,Accessories,6,30,0.1,0,14.4,3.5,4,Card,0
+L000057,O000029,2023-01-10,C0347,United States,Americas,Wholesale,P024,Practice Accessories 08,Accessories,10,55,0.2,0,23.1,4.0,2,Card,1
+L000058,O000029,2023-01-10,C0347,United States,Americas,Wholesale,P010,Practice Apparel 02,Apparel,18,45,0.25,0,20.7,3.5,7,Card,0
+L000059,O000030,2023-01-31,C0170,Canada,Americas,Wholesale,P015,Practice Apparel 07,Apparel,20,70,0.25,0,33.6,1.0,9,Digital wallet,1
+L000060,O000030,2023-01-31,C0170,Canada,Americas,Wholesale,P022,Practice Accessories 06,Accessories,22,45,0.25,0,20.7,5.0,8,Digital wallet,0
+L000061,O000031,2023-01-04,C0653,Brazil,Americas,E-commerce,P007,Practice Footwear 07,Footwear,3,110,0.25,0,52.8,2.0,11,Bank transfer,1
+L000062,O000031,2023-01-04,C0653,Brazil,Americas,E-commerce,P003,Practice Footwear 03,Footwear,3,90,0.25,0,43.2,2.0,7,Bank transfer,0
+L000063,O000032,2023-01-12,C0078,Mexico,Americas,E-commerce,P009,Practice Apparel 01,Apparel,3,40,0,0,17.6,3.5,3,Card,1
+L000064,O000032,2023-01-12,C0078,Mexico,Americas,E-commerce,P012,Practice Apparel 04,Apparel,2,55,0.25,0,23.1,5.0,5,Card,0
+L000065,O000033,2023-01-03,C0008,China,Asia/Pacific,Wholesale,P016,Practice Apparel 08,Apparel,15,75,0,0,31.5,2.5,5,Bank transfer,1
+L000066,O000033,2023-01-03,C0008,China,Asia/Pacific,Wholesale,P022,Practice Accessories 06,Accessories,23,45,0.15,0,20.7,1.5,6,Bank transfer,0
+L000067,O000034,2023-01-24,C0467,India,Asia/Pacific,Wholesale,P002,Practice Footwear 02,Footwear,16,85,0.25,0,39.1,1.0,4,Bank transfer,1
+L000068,O000034,2023-01-24,C0467,India,Asia/Pacific,Wholesale,P001,Practice Footwear 01,Footwear,6,80,0,0,35.2,2.5,3,Bank transfer,0
+L000069,O000035,2023-01-06,C0421,Japan,Asia/Pacific,Retail,P011,Practice Apparel 03,Apparel,3,50,0.2,0,24.0,4.0,3,Bank transfer,1
+L000070,O000035,2023-01-06,C0421,Japan,Asia/Pacific,Retail,P001,Practice Footwear 01,Footwear,5,80,0.2,0,35.2,3.0,8,Bank transfer,0
+L000071,O000036,2023-01-18,C0182,Australia,Asia/Pacific,Wholesale,P018,Practice Accessories 02,Accessories,12,25,0.1,0,11.5,1.5,7,Digital wallet,1
+L000072,O000036,2023-01-18,C0182,Australia,Asia/Pacific,Wholesale,P009,Practice Apparel 01,Apparel,22,40,0.1,0,17.6,2.0,8,Digital wallet,0
+L000073,O000037,2023-01-20,C0222,Germany,EMEA,Retail,P016,Practice Apparel 08,Apparel,3,75,0.15,0,31.5,5.0,9,Digital wallet,1
+L000074,O000037,2023-01-20,C0222,Germany,EMEA,Retail,P021,Practice Accessories 05,Accessories,5,40,0.15,0,17.6,4.0,12,Digital wallet,0
+L000075,O000038,2023-01-27,C0852,Poland,EMEA,E-commerce,P004,Practice Footwear 04,Footwear,3,95,0.2,0,39.9,3.0,12,Digital wallet,1
+L000076,O000038,2023-01-27,C0852,Poland,EMEA,E-commerce,P024,Practice Accessories 08,Accessories,5,55,0.05,0,23.1,5.0,11,Digital wallet,0
+L000077,O000039,2023-01-19,C0490,United Kingdom,EMEA,Retail,P011,Practice Apparel 03,Apparel,3,50,0,0,24.0,5.0,7,Bank transfer,1
+L000078,O000039,2023-01-19,C0490,United Kingdom,EMEA,Retail,P007,Practice Footwear 07,Footwear,3,110,0.1,0,52.8,4.5,11,Bank transfer,0
+L000079,O000040,2023-01-01,C0301,South Africa,EMEA,E-commerce,P002,Practice Footwear 02,Footwear,5,85,0.05,0,39.1,2.5,9,Digital wallet,1
+L000080,O000040,2023-01-01,C0301,South Africa,EMEA,E-commerce,P019,Practice Accessories 03,Accessories,5,30,0.15,0,14.4,6.0,11,Digital wallet,0
+L000081,O000041,2023-01-08,C0853,United States,Americas,Wholesale,P018,Practice Accessories 02,Accessories,14,25,0.15,0,11.5,4.0,5,Card,1
+L000082,O000041,2023-01-08,C0853,United States,Americas,Wholesale,P003,Practice Footwear 03,Footwear,9,90,0.1,0,43.2,5.0,9,Card,0
+L000083,O000042,2023-01-13,C0727,Canada,Americas,Retail,P006,Practice Footwear 06,Footwear,5,105,0.05,0,48.3,4.5,1,Bank transfer,1
+L000084,O000042,2023-01-13,C0727,Canada,Americas,Retail,P008,Practice Footwear 08,Footwear,1,115,0.2,0,48.3,2.5,8,Bank transfer,0
+L000085,O000043,2023-01-14,C0077,Brazil,Americas,E-commerce,P003,Practice Footwear 03,Footwear,4,90,0.1,0,43.2,2.0,10,Card,1
+L000086,O000043,2023-01-14,C0077,Brazil,Americas,E-commerce,P008,Practice Footwear 08,Footwear,1,115,0.15,0,48.3,2.0,6,Card,0
+L000087,O000044,2023-01-07,C0536,Mexico,Americas,Wholesale,P017,Practice Accessories 01,Accessories,23,20,0,0,8.8,3.5,11,Bank transfer,1
+L000088,O000044,2023-01-07,C0536,Mexico,Americas,Wholesale,P006,Practice Footwear 06,Footwear,20,105,0.15,0,48.3,2.5,9,Bank transfer,0
+L000089,O000045,2023-01-06,C0275,China,Asia/Pacific,Wholesale,P024,Practice Accessories 08,Accessories,8,55,0.1,1,23.1,1.5,10,Bank transfer,1
+L000090,O000045,2023-01-06,C0275,China,Asia/Pacific,Wholesale,P024,Practice Accessories 08,Accessories,18,55,0,0,23.1,1.0,6,Bank transfer,0
+L000091,O000046,2023-01-19,C0399,India,Asia/Pacific,Wholesale,P005,Practice Footwear 05,Footwear,18,100,0.25,0,44.0,4.5,3,Bank transfer,1
+L000092,O000046,2023-01-19,C0399,India,Asia/Pacific,Wholesale,P003,Practice Footwear 03,Footwear,14,90,0.05,0,43.2,2.5,6,Bank transfer,0
+L000093,O000047,2023-01-13,C0507,Japan,Asia/Pacific,Retail,P022,Practice Accessories 06,Accessories,1,45,0.15,0,20.7,4.0,9,Card,1
+L000094,O000047,2023-01-13,C0507,Japan,Asia/Pacific,Retail,P002,Practice Footwear 02,Footwear,1,85,0.05,0,39.1,3.0,2,Card,0
+L000095,O000048,2023-01-10,C0253,Australia,Asia/Pacific,Wholesale,P011,Practice Apparel 03,Apparel,6,50,0.05,3,24.0,3.5,10,Digital wallet,1
+L000096,O000048,2023-01-10,C0253,Australia,Asia/Pacific,Wholesale,P010,Practice Apparel 02,Apparel,19,45,0.25,0,20.7,2.0,1,Digital wallet,0
+L000097,O000049,2023-01-09,C0324,Germany,EMEA,Retail,P009,Practice Apparel 01,Apparel,2,40,0.25,0,17.6,5.5,2,Bank transfer,1
+L000098,O000049,2023-01-09,C0324,Germany,EMEA,Retail,P003,Practice Footwear 03,Footwear,2,90,0,0,43.2,5.5,6,Bank transfer,0
+L000099,O000050,2023-01-29,C0712,Poland,EMEA,Retail,P019,Practice Accessories 03,Accessories,2,30,0.2,0,14.4,3.0,8,Card,1
+L000100,O000050,2023-01-29,C0712,Poland,EMEA,Retail,P008,Practice Footwear 08,Footwear,3,115,0,0,48.3,4.5,1,Card,0
+L000101,O000051,2023-01-30,C0322,United Kingdom,EMEA,Retail,P003,Practice Footwear 03,Footwear,3,90,0.25,0,43.2,5.0,12,Card,1
+L000102,O000051,2023-01-30,C0322,United Kingdom,EMEA,Retail,P023,Practice Accessories 07,Accessories,1,50,0.05,0,24.0,4.0,10,Card,0
+L000103,O000052,2023-01-24,C0052,South Africa,EMEA,Retail,P013,Practice Apparel 05,Apparel,5,60,0.25,0,26.4,5.0,1,Digital wallet,1
+L000104,O000052,2023-01-24,C0052,South Africa,EMEA,Retail,P010,Practice Apparel 02,Apparel,4,45,0.25,0,20.7,3.5,9,Digital wallet,0
+L000105,O000053,2023-01-26,C0436,United States,Americas,Wholesale,P002,Practice Footwear 02,Footwear,12,85,0.15,0,39.1,5.0,9,Card,1
+L000106,O000053,2023-01-26,C0436,United States,Americas,Wholesale,P010,Practice Apparel 02,Apparel,21,45,0.25,0,20.7,1.0,6,Card,0
+L000107,O000054,2023-01-23,C0155,Canada,Americas,Retail,P015,Practice Apparel 07,Apparel,4,70,0.05,0,33.6,2.0,3,Card,1
+L000108,O000054,2023-01-23,C0155,Canada,Americas,Retail,P018,Practice Accessories 02,Accessories,2,25,0.2,0,11.5,4.0,2,Card,0
+L000109,O000055,2023-01-21,C0578,Brazil,Americas,Wholesale,P003,Practice Footwear 03,Footwear,16,90,0.05,0,43.2,3.0,4,Bank transfer,1
+L000110,O000055,2023-01-21,C0578,Brazil,Americas,Wholesale,P003,Practice Footwear 03,Footwear,18,90,0.1,0,43.2,2.0,5,Bank transfer,0
+L000111,O000056,2023-01-23,C0014,Mexico,Americas,Wholesale,P021,Practice Accessories 05,Accessories,23,40,0.2,0,17.6,3.5,9,Digital wallet,1
+L000112,O000056,2023-01-23,C0014,Mexico,Americas,Wholesale,P011,Practice Apparel 03,Apparel,11,50,0.05,0,24.0,2.0,3,Digital wallet,0
+L000113,O000057,2023-01-20,C0190,China,Asia/Pacific,Retail,P018,Practice Accessories 02,Accessories,1,25,0.05,0,11.5,4.0,8,Digital wallet,1
+L000114,O000057,2023-01-20,C0190,China,Asia/Pacific,Retail,P023,Practice Accessories 07,Accessories,3,50,0.25,0,24.0,6.0,10,Digital wallet,0
+L000115,O000058,2023-01-08,C0555,India,Asia/Pacific,Wholesale,P020,Practice Accessories 04,Accessories,13,35,0,0,14.7,3.0,2,Bank transfer,1
+L000116,O000058,2023-01-08,C0555,India,Asia/Pacific,Wholesale,P009,Practice Apparel 01,Apparel,19,40,0.25,0,17.6,1.5,1,Bank transfer,0
+L000117,O000059,2023-01-24,C0129,Japan,Asia/Pacific,Retail,P003,Practice Footwear 03,Footwear,3,90,0.1,0,43.2,3.5,2,Bank transfer,1
+L000118,O000059,2023-01-24,C0129,Japan,Asia/Pacific,Retail,P002,Practice Footwear 02,Footwear,1,85,0.2,0,39.1,5.5,5,Bank transfer,0
+L000119,O000060,2023-01-20,C0883,Australia,Asia/Pacific,Retail,P004,Practice Footwear 04,Footwear,4,95,0,0,39.9,4.5,12,Card,1
+L000120,O000060,2023-01-20,C0883,Australia,Asia/Pacific,Retail,P022,Practice Accessories 06,Accessories,2,45,0.05,0,20.7,4.5,3,Card,0
+L000011,O000006,2023-01-21,C0307,Canada,Americas,Wholesale,P008,Practice Footwear 08,Footwear,8,115,0.1,0,48.3,3.0,1,Bank transfer,1

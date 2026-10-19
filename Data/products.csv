@@ -1,0 +1,25 @@
+ProductID,ProductName,Category,ListPriceEUR,UnitCostEUR
+P001,Practice Footwear 01,Footwear,80,35.2
+P002,Practice Footwear 02,Footwear,85,39.1
+P003,Practice Footwear 03,Footwear,90,43.2
+P004,Practice Footwear 04,Footwear,95,39.9
+P005,Practice Footwear 05,Footwear,100,44.0
+P006,Practice Footwear 06,Footwear,105,48.3
+P007,Practice Footwear 07,Footwear,110,52.8
+P008,Practice Footwear 08,Footwear,115,48.3
+P009,Practice Apparel 01,Apparel,40,17.6
+P010,Practice Apparel 02,Apparel,45,20.7
+P011,Practice Apparel 03,Apparel,50,24.0
+P012,Practice Apparel 04,Apparel,55,23.1
+P013,Practice Apparel 05,Apparel,60,26.4
+P014,Practice Apparel 06,Apparel,65,29.9
+P015,Practice Apparel 07,Apparel,70,33.6
+P016,Practice Apparel 08,Apparel,75,31.5
+P017,Practice Accessories 01,Accessories,20,8.8
+P018,Practice Accessories 02,Accessories,25,11.5
+P019,Practice Accessories 03,Accessories,30,14.4
+P020,Practice Accessories 04,Accessories,35,14.7
+P021,Practice Accessories 05,Accessories,40,17.6
+P022,Practice Accessories 06,Accessories,45,20.7
+P023,Practice Accessories 07,Accessories,50,24.0
+P024,Practice Accessories 08,Accessories,55,23.1
