@@ -252,8 +252,3 @@ The separate [published-sales reference](data/puma_published_sales_2023_2024.csv
 
 The map uses public-domain [Natural Earth country geometry](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/). The decorative sports image is an AI-generated fictional product concept, not an official PUMA catalogue photograph. See [asset notes](assets/ASSET_NOTES.md).
 
-This is an independent educational portfolio project and is not affiliated with or endorsed by PUMA.
-
-## Author
-
-**Srikanth Kamuni**
